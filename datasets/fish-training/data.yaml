@@ -1,0 +1,6 @@
+path: datasets/fish-training
+train: train/images
+val: valid/images
+
+nc: 2
+names: ['Fish head', 'Fish tail']
