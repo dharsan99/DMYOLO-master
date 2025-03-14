@@ -1,0 +1,9 @@
+path: fish-training  # dataset root dir
+train: train/images  # train images (relative to 'path')
+val: valid/images  # val images (relative to 'path')
+test:  # Optional test directory if available
+# Classes
+names:
+  0: Fish head
+  1: Fish tail
+nc: 2

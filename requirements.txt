@@ -1,0 +1,11 @@
+# onnx==1.14.0  # Commented out, already installed as 1.17.0 for ARM
+onnxruntime==1.15.1  # Keep this for runtime
+pycocotools==2.0.7
+PyYAML==6.0.1
+scipy==1.13.0
+onnxsim==0.4.36
+# onnxruntime-gpu==1.18.0  # Not needed/available for M1/M2, comment out
+gradio==4.31.5
+opencv-python==4.9.0.80
+psutil==5.9.8
+py-cpuinfo==9.0.0

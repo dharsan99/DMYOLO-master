@@ -1,0 +1,10 @@
+Annotated Image,Detection Details,flag,username,timestamp
+/Users/dharsankumar/Documents/GitHub/DMYOLO-master/gradio_cached_examples/17/Annotated Image/52bacd0c28e1400ae71541980fe0fe3322020d9a/tmponigpwwv.png,"Class: bus (ID: 5) | Confidence: 0.96 | Bounding Box: [6.277811050415039, 229.587646484375, 805.1804809570312, 737.91064453125]
+Class: person (ID: 0) | Confidence: 0.93 | Bounding Box: [49.55058288574219, 397.7736511230469, 247.97181701660156, 905.9786376953125]
+Class: person (ID: 0) | Confidence: 0.91 | Bounding Box: [668.8923950195312, 393.0891418457031, 809.5680541992188, 880.896240234375]
+Class: person (ID: 0) | Confidence: 0.91 | Bounding Box: [221.95053100585938, 405.2508544921875, 345.34661865234375, 859.841552734375]
+Class: person (ID: 0) | Confidence: 0.58 | Bounding Box: [0.14966082572937012, 550.4625244140625, 73.66062927246094, 869.9114990234375]
+Class: stop sign (ID: 11) | Confidence: 0.25 | Bounding Box: [0.15485894680023193, 251.94290161132812, 33.15176010131836, 324.0076599121094]",,,2025-03-14 13:58:35.952327
+/Users/dharsankumar/Documents/GitHub/DMYOLO-master/gradio_cached_examples/17/Annotated Image/0abda57a90e59967291129040866e8149f911342/tmpg_6jo_1c.png,"Class: person (ID: 0) | Confidence: 0.96 | Bounding Box: [119.630615234375, 199.77679443359375, 1105.5677490234375, 711.8250122070312]
+Class: person (ID: 0) | Confidence: 0.92 | Bounding Box: [747.9066162109375, 42.4368896484375, 1127.71630859375, 710.8941650390625]
+Class: tie (ID: 27) | Confidence: 0.81 | Bounding Box: [436.02264404296875, 435.44915771484375, 525.571533203125, 715.2496948242188]",,,2025-03-14 13:58:36.589962
